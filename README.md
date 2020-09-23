@@ -21,7 +21,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/java-23-225999.png" alt="java" width="40" height="40"/> 
 <img src="https://icon-library.com/images/transparent-icon-android/transparent-icon-android-6.jpg" alt="android" width="40" height="40"/> 
 <img src="https://flutter-kr.io/images/flutter-logo-sharing.png" alt="flutter" width="80" height="40"/> 
-<img src="https://f0.pngfuel.com/png/359/1024/firebase-cloud-messaging-computer-icons-google-cloud-messaging-android-png-clip-art.png" alt="firebase" width="80" height="40"/> 
+<img src="https://f0.pngfuel.com/png/359/1024/firebase-cloud-messaging-computer-icons-google-cloud-messaging-android-png-clip-art.png" alt="firebase" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
