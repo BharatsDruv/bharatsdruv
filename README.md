@@ -1,4 +1,4 @@
-<h1 align="center"><iframe src="https://giphy.com/embed/3ohs4f2bZ4jSd2q5tS" width="40" height="40" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> 👋, I'm Bharat</h1>
+<h1 align="center"><img src="https://media4.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" alt="java" width="40" height="40"/>  👋, I'm Bharat</h1>
 <h3 align="center">I'm learning to become a Java Developer ~ Currently a 3rd year undergrad @SGSITS,Indore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatsdruv" alt="bharatsdruv" /> </p>
