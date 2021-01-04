@@ -23,7 +23,7 @@
 <img src="https://juststickers.in/wp-content/uploads/2019/01/flutter.png" alt="flutter" width="40" height="40"/> 
 <img src="https://www.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="firebase" width="40" height="40"/> 
 <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+<img src="https://www.freeiconspng.com/uploads/w3c-html5-logo-0.png" alt="html5" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </p>
