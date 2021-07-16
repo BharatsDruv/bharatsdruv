@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharat   <img src="https://cdn.lowgif.com/small/004faa2f4e3cd386-minion-animated-clipart-images.gif" width="60" height="60"/></h1>
-<h3 align="center">I'm learning to become a Java Developer ~ Currently a 3rd year undergrad @SGSITS,Indore</h3>
+<h3 align="center">I'm learning to become a Java Developer ~ Currently a Final year undergrad @SGSITS,Indore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatsdruv" alt="bharatsdruv" /> </p>
 
