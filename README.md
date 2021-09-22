@@ -5,7 +5,7 @@
 
 - 🌍 I’m from **Indore (INDIA)**
 
-- 🌱 I’m currently learning **Cross-platform App development**
+- 🌱 I’m currently learning **Full-Stack web development**
 
 - 🤝 I’m open for opportunities as **Java/flutter/SQL developer**
 
@@ -21,7 +21,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/java-23-225999.png" alt="java" width="40" height="40"/> 
 <img src="https://icon-library.com/images/transparent-icon-android/transparent-icon-android-6.jpg" alt="android" width="40" height="40"/> 
 <img src="https://juststickers.in/wp-content/uploads/2019/01/flutter.png" alt="flutter" width="40" height="40"/> 
-<img src="https://www.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="firebase" width="40" height="40"/> 
+<img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" alt="firebase" width="40" height="40"/> 
 <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="40" height="40"/>
 <img src="https://clipart.info/images/ccovers/1499794874html5-js-css3-logo-png.png" alt="html5" width="120" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </p>
