@@ -31,7 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharatsdruv&show_icons=true" alt="bharatsdruv" /></p>
 
 <p align="center">
-<a href="http://codesgsits.live/" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/webalys/kameleon.pics/512/Coding-Html-icon.png" alt="codeSGSITS" height="30" width="30" /></a>
+<a href="http://bit.ly/codesgsits/" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/webalys/kameleon.pics/512/Coding-Html-icon.png" alt="codeSGSITS" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/bharatshrivastava" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bharatsdruv" height="30" width="30" /></a>
 <a href="http://bharatshrivastava.tech/" target="blank"><img align="center" src="https://www.pngkit.com/png/full/154-1545805_portfolio-icons-code-web-development-logo.png" alt="bharatsdruv" height="30" width="30" /></a>
 <a href="https://instagram.com/bharats.druv_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bharatsdruv" height="30" width="30" /></a>
