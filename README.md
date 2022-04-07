@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bharat   <img src="https://www.gifcen.com/wp-content/uploads/2021/05/minions-gif-10.gif" width="60" height="60"/></h1>
+<h1 align="center">Hi 👋, I'm Bharat   <img src="https://c.tenor.com/QRb6bmSgTDIAAAAC/minions-despicable-me.gif" width="100" height="40"/></h1>
 <h3 align="center">I'm learning to become a Java Developer ~ Currently a Final year undergrad @SGSITS,Indore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatsdruv" alt="bharatsdruv" /> </p>
